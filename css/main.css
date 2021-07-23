@@ -38,10 +38,25 @@ body{
 }
 
 .story{
+
     border-bottom: 8px solid #222;
     display: block;
-    padding: 70px;
+    
     position: relative;
+}
+
+.card {
+    position: relative;
+    width: 25%;
+}
+
+.left-card{
+    
+    padding: 50px;
+}
+.right-card{
+
+    padding: 50px;
 }
 
 h1{
