@@ -41,34 +41,20 @@ body{
 
     border-bottom: 8px solid #222;
     clear:both;
-    
-    position: relative;
+
 }
 
 .card {
     position: relative;
-
+    width: 25%;
+    float: left;
+    border: 2px solid red;
     padding: 10px;
     border: 2px solid red;
     
 }
 
 
-.left-card{
-    
-    width: 25%;
-    float: left;
-    border: 2px solid red;
-    
-}
-
-.right-card{
-    width: 25%;
-
-    float: left;
-    border: 2px solid red;
-
-}
 
 h1{
     font-size: 4rem;
