@@ -24,13 +24,15 @@ body{
 
 .email-input {
     min-width: 500px;
-    height: 70px !important;
+    height: 70px!important;
     margin:0%;
 }
 
 .big-btn{
-    height: 70px !important;
+
     background-color: red;
+    color: white;
+
 }
 
 h1{
